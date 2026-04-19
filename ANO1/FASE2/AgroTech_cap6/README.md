@@ -46,8 +46,9 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 🔧 Como executar o código
 
-necessario criar um .env com as credenciais para acessar o banco de dados. 
-valor medio simbolico da tonelada da cana-de-acucar avaliado em 30 euros.
+-Necessario criar um .env com as credenciais para acessar o banco de dados. 
+
+-Valor medio simbolico da tonelada da cana-de-acucar avaliado em 30 euros.
 
 
 ## 🗃 Histórico de lançamentos
