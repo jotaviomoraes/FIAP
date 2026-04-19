@@ -1,0 +1,14 @@
+# Força o Git a normalizar quebras de linha (evita problemas Windows vs Linux)
+* text=auto
+
+# Garante que arquivos de código usem LF (padrão Linux/GitHub)
+*.py text eol=lf
+*.ino text eol=lf
+*.json text eol=lf
+*.md text
+
+# Identifica imagens como arquivos binários (não devem ser modificados como texto)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
