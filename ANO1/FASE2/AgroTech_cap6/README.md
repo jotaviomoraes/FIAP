@@ -23,7 +23,7 @@
 
 ## 📜 Descrição
 
-Referente ao projeto do 'Capítulo 6: Python e Além', apresento uma aplicação desenvolvida para auxiliar produtores rurais no cálculo da taxa de perda durante o manejo da cana-de-açúcar, englobando os métodos de colheita manual e mecanizada, tranzendo de forma automtica a taxa de desperdício . Além disso, o sistema conta com a funcionalidade de persistência de dados, permitindo a exportação das informações para arquivos .json ou o armazenamento direto em um banco de dados. Isso garante a construção de um histórico robusto e pertinente para análises comparativas e tomadas de decisão entre diferentes safras.
+Referente ao projeto do 'Capítulo 6: Python e Além', apresento uma aplicação desenvolvida para auxiliar produtores rurais no cálculo da taxa de perda durante o manejo da cana-de-açúcar, englobando os métodos de colheita manual e mecanizada, trazendo de forma automtica a taxa de desperdício . Além disso, o sistema conta com a funcionalidade de persistência de dados, permitindo a exportação das informações para arquivos .json ou o armazenamento direto em um banco de dados. Isso garante a construção de um histórico robusto e pertinente para análises comparativas e tomadas de decisão entre diferentes safras.
 
 
 ## 📁 Estrutura de pastas
@@ -46,8 +46,9 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 🔧 Como executar o código
 
-necessario criar um .env com as credenciais para acessar o banco de dados. 
-valor medio simbolico da tonelada da cana-de-acucar avaliado em 30 euros.
+-Necessario criar um .env com as credenciais para acessar o banco de dados. 
+
+-Valor medio simbolico da tonelada da cana-de-acucar avaliado em 30 euros.
 
 
 ## 🗃 Histórico de lançamentos

@@ -56,9 +56,11 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 3. Cole o código do arquivo `sketch.ino`. localizado na pasta 'FASE2/FarmTech Solutions/'
 4. Inicie a simulação.
 
-   print do projeto da pasta /assets ![Circuito Wokwi](ESP32.png)
+   print do projeto da pasta /assets ![Circuito Wokwi](assets/ESP32.png)
 
 link da aplicacao completa: https://wokwi.com/projects/461710056233454593
+
+video do funcionamento: https://youtu.be/RGs8VOmBkcE
 
 
 ## 🗃 Histórico de lançamentos
