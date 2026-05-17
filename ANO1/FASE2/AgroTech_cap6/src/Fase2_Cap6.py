@@ -2,6 +2,7 @@ import json
 import oracledb
 import os
 import pandas as pd
+from sklearn.preprocessing import LabelEncoder, MinMaxScaler, OneHotEncoder
 pd.set_option('display.max_columns', None)
 pd.set_option('display.width', 1000)
 from dotenv import load_dotenv
